@@ -1,23 +1,164 @@
+body{
+    margin:0;
+    padding: 100;
+}
+
 #face{
-    background-color: yellow;
-    width: 1000px;
-    height: 1000px;
+    background-color:yellow;
+    width: 2000px;
+    height: 750px;
 }
 
 #eyewhite1{
+    width: 175px;
+    height: 175px;
     background-color:white;
     position: fixed;
-    width: 100px;
-    height: 100px;
     top: 50px;
-    bottom: 50px;
+    left: 50px;
+    bottom: auto;
+    right: auto;
 }
 
 #eyewhite2{
+    width: 175px;
+    height: 175px;
     background-color:white;
     position: fixed;
-    width: 100px;
-    height: 100px;
     top: 50px;
-    bottom: 50px;
+    left: 250px;
+    bottom: auto;
+    right: auto;
+}
+
+#pupil1{
+    width: 75px;
+    height: 75px;
+    background-color:black;
+    position: fixed;
+    top: 75px;
+    left: 75px;
+    bottom: auto;
+    right: auto;
+}
+
+#pupil2{
+    width: 75px;
+    height: 75px;
+    background-color:black;
+    position: fixed;
+    top: 75px;
+    left: 275px;
+    bottom: auto;
+    right: auto;
+}
+
+#mouth{
+    width: 410px;
+    height: 275px;
+    background-color:black;
+    position: fixed;
+    top: 275px;
+    left: 50px;
+    bottom: auto;
+    right: auto;
+}
+
+#tooth1{
+    width:35px;
+    height: 35px;
+    background-color:white;
+    position: fixed;
+    top: 310px;
+    left: 75px;
+    bottom: auto;
+    right: auto;
+}
+
+#tooth2{
+    width:35px;
+    height: 35px;
+    background-color:white;
+    position: fixed;
+    top: 310px;
+    left: 125px;
+    bottom: auto;
+    right: auto;
+}
+
+#tooth3{
+    width:35px;
+    height: 35px;
+    background-color:white;
+    position: fixed;
+    top: 310px;
+    left: 175px;
+    bottom: auto;
+    right: auto;
+}
+
+#tooth4{
+    width:35px;
+    height: 35px;
+    background-color:white;
+    position: fixed;
+    top: 310px;
+    left: 225px;
+    bottom: auto;
+    right: auto;
+}
+
+#tooth5{
+    width:35px;
+    height: 35px;
+    background-color:white;
+    position: fixed;
+    top: 310px;
+    left: 275px;
+    bottom: auto;
+    right: auto;
+}
+
+#tooth6{
+    width:35px;
+    height: 35px;
+    background-color:white;
+    position: fixed;
+    top: 310px;
+    left: 325px;
+    bottom: auto;
+    right: auto;
+}
+
+#tooth7{
+    width:35px;
+    height: 35px;
+    background-color:white;
+    position: fixed;
+    top: 310px;
+    left: 375px;
+    bottom: auto;
+    right: auto;
+}
+
+#tongue{
+    width:200px;
+    height: 135px;
+    background-color:red;
+    position: fixed;
+    top: 400px;
+    left: 150px;
+    bottom: auto;
+    right: auto;
+}
+
+#center{
+    width:15px;
+    height: 100px;
+    background-color:black;
+    position: fixed;
+    top: 400px;
+    left: 245px;
+    bottom: auto;
+    right: auto;
 }
