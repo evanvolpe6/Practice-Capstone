@@ -1,16 +1,23 @@
-body{
-    background: yellow;
+#face{
+    background-color: yellow;
+    width: 1000px;
+    height: 1000px;
 }
 
 #eyewhite1{
-    color:white;
+    background-color:white;
+    position: fixed;
     width: 100px;
     height: 100px;
+    top: 50px;
+    bottom: 50px;
 }
+
 #eyewhite2{
-    color:white;
+    background-color:white;
+    position: fixed;
     width: 100px;
     height: 100px;
-    position: relative;
-    right: 200px;
+    top: 50px;
+    bottom: 50px;
 }
