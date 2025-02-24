@@ -12,3 +12,10 @@ body{
     width: 300px;
     text-align: center;
 }
+
+.subheading{
+    color: #2D336B;
+    text-decoration: underline;
+    text-decoration: wavy;
+    font-weight: bold;
+}
