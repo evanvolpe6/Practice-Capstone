@@ -15,7 +15,7 @@ body{
 
 .subheading{
     color: #2D336B;
-    text-decoration: underline;
+    text-decoration: underline dotted;
     text-decoration: wavy;
     font-weight: bold;
 }
