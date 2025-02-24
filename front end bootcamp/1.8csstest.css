@@ -18,6 +18,13 @@ body{
     font-weight: bold;
     border-color: #7886C7;
     width: 150px;
-    padding-left: 25px;
+    text-align: center;
     border-style: dotted;
+}
+
+.img{
+    width: 300px;
+    border-color: #FFF2F2;
+    align-self: center;
+    border-radius: 50%;
 }
