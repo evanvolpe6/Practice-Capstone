@@ -16,6 +16,7 @@ body{
 .subheading{
     color: #2D336B;
     font-weight: bold;
-    border-color: #7886C7;
+    border-color: black;
     width: 300px;
+    border-style: solid;
 }
