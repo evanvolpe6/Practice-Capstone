@@ -9,4 +9,6 @@ body{
     font-weight: bold;
     border-color: #2D336B;
     border-style: solid;
+    width: 300px;
+    padding-left: 25px;
 }
